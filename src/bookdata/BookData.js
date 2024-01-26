@@ -71,12 +71,12 @@ export const BooksData = [
 
     {
         id: 7,
-        book_name:"",
-        book_des:"",
-        book_url:"",
-        length:"922 trang",
-        author_name:"J.K. Rowling",
-        price:"310000",
+        book_name:"50 TỪ VỀ CÁC LOÀI BỌ",
+        book_des:"Mở rộng vốn từ là trợ thủ đắc lực cho quá trình phát triển ngôn ngữ của trẻ. Điều này cũng giúp trẻ chủ động khám phá và hiểu hơn về thế giới xung quanh. Ngoài ra, phương pháp học từ vựng qua hình ảnh góp phần giúp việc học của trẻ trở nên dễ nhớ và hiệu quả hơn rất nhiều.",
+        book_url:"https://www.nxbtre.com.vn/Images/Book/nxbtre_thumb_11392024_093934.jpg",
+        length:"32 trang",
+        author_name:"Lily Holland & Debbie Powell",
+        price:"350000",
     },
 
     {
